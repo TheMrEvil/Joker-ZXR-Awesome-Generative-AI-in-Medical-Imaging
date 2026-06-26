@@ -257,6 +257,7 @@
 | Dataset                                                                                             | Modality | Scale        | Source            |
 | --------------------------------------------------------------------------------------------------- | -------- | ------------ | ----------------- |
 | [MRNet (Knee)](https://stanfordmlgroup.github.io/competitions/mrnet/)                                  | 3D MRI   | 1370 volumes | Project Site      |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — | — |
 | [SKM-TEA (Knee)](https://stanfordaimi.azurewebsites.net/datasets/4aaeafb9-c6e6-4e3c-9188-3aaaf0e0a9e7) | 3D MRI   | 155 volumes  | Project Site      |
 | [SPIDER (Spine)](https://zenodo.org/records/10159290)                                                  | 3D MRI   | 257 volumes  | Zenodo/DOI        |
 | [Wrist Dataset](https://data.mendeley.com/datasets/9kx5xp7h6d/2)                                       | 3Dt MRI  | 55 volumes   | data.mendeley.com |
